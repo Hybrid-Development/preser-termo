@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/preser-termo/static/css/main.073c9b0a.css",
-    "main.js": "/preser-termo/static/js/main.d132ba00.js",
+    "main.js": "/preser-termo/static/js/main.af44ffb2.js",
     "static/js/787.1bfee16f.chunk.js": "/preser-termo/static/js/787.1bfee16f.chunk.js",
     "index.html": "/preser-termo/index.html",
     "main.073c9b0a.css.map": "/preser-termo/static/css/main.073c9b0a.css.map",
-    "main.d132ba00.js.map": "/preser-termo/static/js/main.d132ba00.js.map",
+    "main.af44ffb2.js.map": "/preser-termo/static/js/main.af44ffb2.js.map",
     "787.1bfee16f.chunk.js.map": "/preser-termo/static/js/787.1bfee16f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d132ba00.js"
+    "static/js/main.af44ffb2.js"
   ]
 }
